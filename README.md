@@ -85,4 +85,4 @@ Whenever you update the privacy policy:
 
 ## Support
 
-For questions about your GameHub app, users can contact: `[YOUR-EMAIL]`
+For questions about your GameHub app, users can contact: `gamehubrobloxapp@gmail.com`
